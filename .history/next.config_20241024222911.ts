@@ -3,7 +3,9 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'standalone',
   experimental: {
-    // Remove the outputFileTracingRoot property
+    outputFileTracingRoot: undefined,
   },
 };
+
 export default nextConfig;
+
