@@ -244,7 +244,7 @@ export default function Component() {
                 The Charming Bracelet Boutique was born from a passion for creating timeless pieces that celebrate the beauty of life&apos;s moments. Our founder, inspired by the elegance of classic jewelry design, set out to create a collection of bracelets that would captivate and delight.
               </p>
               <p className="text-lg text-gray-700">
-                Each bracelet in our collection is carefully crafted using the finest materials, ensuring that every piece is not just an accessory, but a work of art. We believe that a bracelet is more than just jewelry - it&apos;s a personal statement, a cherished memory, and a symbol of style.
+                Each bracelet in our collection is carefully crafted using the finest materials, ensuring that every piece is not just an accessory, but a work of art. We believe that a bracelet is more than just jewelry - it's a personal statement, a cherished memory, and a symbol of style.
               </p>
             </div>
             <div>
